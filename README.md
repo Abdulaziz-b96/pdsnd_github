@@ -1,6 +1,6 @@
 ## Date created:
 
-5/4/2020.
+5/4/2020
 
 ## Project Title:
 
