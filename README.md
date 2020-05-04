@@ -18,3 +18,6 @@ This project will use data provided by Motivate, a bike share system provider fo
 chicago.csv 
 new_york_city.csv 
 washington.csv
+
+## Cridets
+Credit goes to Udacity
